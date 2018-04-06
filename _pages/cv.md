@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Electrical engineering degree, University of Campinas, Brazil, 2017
+* Master's degree in engineering, École Centrale Paris / CentraleSupélec, France, 2017
+* Master of Science in applied mathematics (MVA, machine learning and computer vision), École Normale Supérieure Paris-Saclay, France, 2018
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
