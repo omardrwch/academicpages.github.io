@@ -20,7 +20,8 @@ Experience
 ======
 
 * Apr 2018 - Sep 2018: Internship at Parietal team, Inria Saclay/CEA Neurospin, France
-  * 
+  * Study the predictive power of scale-free brain activity measured with MEG in perceptual learning using multivariate multifractal analysis.
+  * Supervisor: Philippe Ciuciu
 
 * 2016-2017:  Research project at Unicamp
   * Optimization of the capacity of a submarine optical fiber link and study of nonlinear wave propagation in optical fibers.
@@ -28,7 +29,7 @@ Experience
 
 * Jun 2015- Dec 2015: Internship at Pixium Vision, Paris
   * Development of a software to study the visual perception of patients equipped with a vision restoration system. Statistical analysis of the collected data. Video segmentation and study of the use of 3D sounds for spatial localization of objects.
-  * Supervison: Vincent Bismuth
+  * Supervisor: Vincent Bismuth
 
 
 Skills 
