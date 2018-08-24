@@ -20,7 +20,7 @@ Experience
 ======
 
 * Apr 2018 - Sep 2018: Internship at Parietal team, Inria Saclay/CEA Neurospin, France
-  * Study the predictive power of scale-free brain activity measured with MEG in perceptual learning using multivariate multifractal analysis.
+  * Study of the predictive power of multifractal features in MEG data.
   * Supervisor: Philippe Ciuciu
 
 * 2016-2017:  Research project at Unicamp
