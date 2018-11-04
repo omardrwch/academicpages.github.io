@@ -23,7 +23,7 @@ Experience
   * Study of the predictive power of multifractal features in MEG data.
   * Supervisor: Philippe Ciuciu
 
-* 2016-2017:  Research project at Unicamp
+* Mar 2016 - Aug 2017:  Research project at Unicamp
   * Optimization of the capacity of a submarine optical fiber link and study of nonlinear wave propagation in optical fibers.
   * Supervisor: Prof. Darli A. A. Mello
 
@@ -32,6 +32,7 @@ Experience
   * Supervisor: Vincent Bismuth
 
 
+<!--
 Skills 
 ======
 * Languages: Portuguese, English and French
@@ -41,6 +42,8 @@ Skills
 * Signal processing
 * Statistics
 * Optimization
+-->
+
 
 <!-- Work experience
 ======
