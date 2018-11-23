@@ -8,7 +8,8 @@ date: 2019-01-01
 location: "Somewhere"
 ---
 
-{% include base_path %}
+Description
+
 
 Hello
 =============
