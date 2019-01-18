@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Science in applied mathematics (MVA, machine learning and computer vision), École Normale Supérieure Paris-Saclay, France, 2018
+* Master of Science in applied mathematics (MVA, machine learning and computer vision), École Normale Supérieure Paris-Saclay, France, 2018 (mention très bien)
 * Master's degree in engineering, École Centrale Paris / CentraleSupélec, France, 2017
 * Electrical engineering degree, University of Campinas (Unicamp), Brazil, 2017
 

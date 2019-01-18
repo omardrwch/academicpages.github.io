@@ -1,17 +1,20 @@
 ---
-title: "Nothing here yet!"
+title: "RL@CentraleSupélec"
 collection: teaching
-type: "Just testing"
-permalink: /teaching/samplecourse
-venue: "University X"
-date: 2019-01-01
-location: "Somewhere"
+type: "Master"
+permalink: /teaching/rlcs2019
+venue: "CentraleSupélec"
+date: 2019
+location: "France"
 ---
 
-Description
+Reinforcement Learning course at CentraleSupélec.
 
 
-Hello
-=============
+RL@CentraleSupélec 2019
+=======================
 
-Just testing... Does it work if I put a [link](https://omardrwch.github.io/cv/) here? 
+
+
+
+
