@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7dc1b7a-958e-495f-aa4e-c6b6b0e07308" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_teaching/rl-cs2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/rl-cs2019.md" afterDir="false" />
-    </list>
+    <list default="true" id="d7dc1b7a-958e-495f-aa4e-c6b6b0e07308" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +12,7 @@
     <session id="-1208512297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -60,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/_teaching/rl-cs2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="101" selection-start-line="16" selection-start-column="101" selection-end-line="16" selection-end-column="101" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="78" lean-forward="true" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,16 +149,6 @@
               <item name="omardrwch.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="omardrwch.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="omardrwch.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omardrwch.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_teaching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="omardrwch.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omardrwch.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -201,7 +188,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="2495" height="1444" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25888118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,8 +284,8 @@
     <entry file="file://$PROJECT_DIR$/_teaching/rl-cs2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="101" selection-start-line="16" selection-start-column="101" selection-end-line="16" selection-end-column="101" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="78" lean-forward="true" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
           </first_editor>
           <second_editor />
         </state>
